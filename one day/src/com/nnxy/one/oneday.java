@@ -1,8 +1,8 @@
 package com.nnxy.one;
 
 public class oneday {
-	private int id;
-	private String username;
+	private int id;   //id
+	private String username;  //用户名
 	private String password;
 	private int sex;
 	private String age;
